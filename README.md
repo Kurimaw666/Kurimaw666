@@ -8,7 +8,7 @@ Im still wanted to learn more
 <br>
 <summary>💻 I'm interested making Desktop Application , Making games and Machine Learning<br>
 <summary>🤝💻 I'm current in a private collabration<br>
- <summary>-I'm current working on Administrator side of our system with only database<br>
+ <summary>-I'm current working on Administrator side of our system with online database<br>
 </p>
 <br>
 <p align="center">
