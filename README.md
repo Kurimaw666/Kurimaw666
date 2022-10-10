@@ -2,7 +2,7 @@
 <p align="center">Hello Im James Meg J. D.  just call me James, i'm recently graduate in <b>BSIT-IT</b>,
 <br>
 Im not that pro most of my knowledge came from  self studies😂. <br>
-Im still wanted to learn more in any 
+Im still wanted to learn more 
 </p>
 
 <br>
